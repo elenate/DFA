@@ -1,0 +1,4 @@
+start state
+q0
+alphabet
+a b
